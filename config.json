@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdecrypt",
+        "uuid": 11229276,
+        "checksum": "6p5es"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
